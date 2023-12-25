@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm nvietanh </h1>
 
-<!--
-**nvietanh1909/nvietanh1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Detail
 
-Here are some ideas to get you started:
+- **Full name:** Nguyen Viet Anh
+- **University:** [HUFLIT](https://huflit.edu.vn/)
+- **Status:** Second-year student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+
+- 📧 **Email:** nvietanh.work.1909@gmail.com
+- [![Facebook](https://img.shields.io/badge/Facebook-nvietanh-blue)](https://www.facebook.com/nvietanhh1909)
+- [![Linkedin](https://img.shields.io/badge/Linkedin-nvietanh-blue)](https://www.linkedin.com/in/vi%E1%BB%87t-anh-nguy%E1%BB%85n-38269a252/)
