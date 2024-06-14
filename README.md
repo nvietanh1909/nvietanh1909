@@ -1,6 +1,5 @@
 ## 💫 About Me:
 - **Full name:** Nguyen Viet Anh
-- **Status:** Second-year student
 - **Major:** Data science
 
 ## 🌐 Socials:
