@@ -19,5 +19,3 @@ I am proficient in a variety of technologies and tools that help bring data-driv
   - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
   - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
   - ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-
-I constantly explore new technologies and stay up-to-date with the latest trends in the field of data science and software development.
