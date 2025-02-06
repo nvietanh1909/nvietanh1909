@@ -1,6 +1,4 @@
 ## 💫 About Me
-Hello! I am **Nguyen Viet Anh**, a passionate **Data Science** major with a keen interest in solving complex problems using data-driven solutions. My primary goal is to leverage advanced algorithms and machine learning techniques to uncover insights and drive business decisions.
-
 - **Full Name:** Nguyen Viet Anh
 - **Major:** Data Science
 - **Current Focus:** Machine Learning, Artificial Intelligence, Data Analysis
